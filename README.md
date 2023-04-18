@@ -2,7 +2,7 @@
 
 Repository with my solutions to tasks for internship in OpenX
 
-Solutions are splitted between 3 components:
+Solutions are splitted between 3 components in tasks folder:
 
 * Carts.tsx: 
     * Retrieves user, product and shopping cart data
