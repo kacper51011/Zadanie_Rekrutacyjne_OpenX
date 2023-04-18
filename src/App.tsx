@@ -1,6 +1,6 @@
-import { Carts } from "./carts/CartsTask";
-import { Products } from "./products/ProductsTask";
-import { Users } from "./users/Users";
+import { Carts } from "./tasks/Carts";
+import { Products } from "./tasks/Products";
+import { Users } from "./tasks/Users";
 
 function App() {
   return (
